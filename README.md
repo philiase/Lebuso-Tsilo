@@ -24,7 +24,7 @@ Here are some of my recent data science projects:
 
 - [Project 1](https://LPTsilo/Classification_Sprint_2207FTDS_Team_ES2): EDSA Twitter Sentiment Classification competition
 - [Project 2](https://github.com/LPTsilo/classification-predict-streamlit-template): Streamlit-based Web Application Twitter Sentiment Classification
-- [Project 3](https://github.com/yourusername/project3): Short description of project 3
+- [Project 3](https://github.com/yourusername/project3): Movie Recommender System
 
 ## 🚀 Skills
 - **Programming languages:** Python, SQL,R, SAS
