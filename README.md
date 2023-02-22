@@ -17,7 +17,7 @@ I'm Lebuso Tsilo, a Data Scientist/Analyst passionate about using data to solve 
 - Kaggle: [Your Kaggle Profile](https://www.kaggle.com/lebusotsilo/)
 
 ## 📫 How to reach me
-- Email: [My Email](lebuso:lebusotsilo6@gmail.com)
+- Email: [My Email](lebusotsilo6@gmail.com)
 
 ## 📊 Data Science Projects
 Here are some of my recent data science projects:
