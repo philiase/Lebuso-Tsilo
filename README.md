@@ -19,11 +19,11 @@ I'm Lebuso Tsilo, a Data Scientist/Analyst passionate about using data to solve 
 ## 📊 Data Science Projects
 Here are some of my recent data science projects:
 
-- [Project 1](https://LPTsilo/Classification_Sprint_2207FTDS_Team_ES2): EDSA Twitter Sentiment Classification competition
-- [Project 2](https://github.com/LPTsilo/classification-predict-streamlit-template): Streamlit-based Web Application Twitter Sentiment Classification
-- [Project 3](https://github.com/CaitMc/Team_ES2_Unsupervised_Predict): Movie Recommender System
-- [project 4](https://github.com/CaitMc/unsupervised-predict-streamlit-template): Movie Recommender Streamlit App
-- [project 5](https://github.com/philiase/EDSA-2201-2207-classification-hackathon): Classification-hackathon
+- [project 1](https://github.com/philiase/EDSA-2201-2207-classification-hackathon): Classification-hackathon
+- [Project 2](https://github.com/LPTsilo/Classification_Sprint_2207FTDS_Team_ES2): EDSA Twitter Sentiment Classification competition
+- [Project 3](https://github.com/LPTsilo/classification-predict-streamlit-template): Streamlit-based Web Application Twitter Sentiment Classification
+- [Project 4](https://github.com/CaitMc/Team_ES2_Unsupervised_Predict): Movie Recommender System
+- [project 5](https://github.com/CaitMc/unsupervised-predict-streamlit-template): Movie Recommender Streamlit App
 
 ## 🚀 Skills
 - **Programming languages:** Python, SQL,R, SAS
