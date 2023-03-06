@@ -23,6 +23,7 @@ Here are some of my recent data science projects:
 - [Project 2](https://github.com/LPTsilo/classification-predict-streamlit-template): Streamlit-based Web Application Twitter Sentiment Classification
 - [Project 3](https://github.com/CaitMc/Team_ES2_Unsupervised_Predict): Movie Recommender System
 - [project 4](https://github.com/CaitMc/unsupervised-predict-streamlit-template): Movie Recommender Streamlit App
+- [project 5](https://github.com/philiase/EDSA-2201-2207-classification-hackathon): Classification-hackathon
 
 ## 🚀 Skills
 - **Programming languages:** Python, SQL,R, SAS
