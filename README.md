@@ -25,6 +25,9 @@ Here are some of my recent data science projects:
 - [Project 4](https://github.com/CaitMc/Team_ES2_Unsupervised_Predict): Movie Recommender System
 - [project 5](https://github.com/CaitMc/unsupervised-predict-streamlit-template): Movie Recommender Streamlit App
 
+## Freelance Projects
+- [project 1](https://github.com/philiase/HyperionDev): HyperionDev Freelance Code Reviewer Take-Home Test
+
 ## 🚀 Skills
 - **Programming languages:** Python, SQL,R, SAS
 - **Data analysis and visualization tools:** Pandas, Matplotlib, Seaborn
