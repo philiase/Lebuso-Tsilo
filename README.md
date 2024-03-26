@@ -30,7 +30,7 @@ Here are some of my recent data science projects:
 - [Project 2](https://github.com/philiase/Probability-Distributions-with-R): Probability Distributions with R
 
 ## 🚀 Skills
-- **Programming languages:** Python, SQL,R, SAS
+- **Programming languages:** Python, SQL, R, SAS
 - **Data analysis and visualization tools:** Pandas, Matplotlib, Seaborn
 - **Machine learning frameworks and libraries:** Scikit-learn, TensorFlow,scikit-surprise
 - **Big data processing tools:** SAS
