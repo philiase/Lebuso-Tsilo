@@ -26,7 +26,8 @@ Here are some of my recent data science projects:
 - [project 5](https://github.com/CaitMc/unsupervised-predict-streamlit-template): Movie Recommender Streamlit App
 
 ## Freelance Projects
-- [project 1](https://github.com/philiase/HyperionDev): HyperionDev Freelance Code Reviewer Take-Home Test
+- [Project 1](https://github.com/philiase/HyperionDev): HyperionDev Freelance Code Reviewer Take-Home Test
+- [Project 2](https://github.com/philiase/Probability-Distributions-with-R): Probability Distributions with R
 
 ## 🚀 Skills
 - **Programming languages:** Python, SQL,R, SAS
