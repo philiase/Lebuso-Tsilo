@@ -28,6 +28,7 @@ Here are some of my recent data science projects:
 ## Freelance Projects
 - [Project 1](https://github.com/philiase/HyperionDev): HyperionDev Freelance Code Reviewer Take-Home Test
 - [Project 2](https://github.com/philiase/Probability-Distributions-with-R): Probability Distributions with R
+- [Project_3](https://github.com/philiase/Probability-Distribution-Visualizer): Probability-Distribution-Visualizer
 
 ## 🚀 Skills
 - **Programming languages:** Python, SQL, R, SAS
